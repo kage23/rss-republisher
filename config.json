@@ -1,9 +1,9 @@
 {
-  "githubUsername": "YOUR USERNAME HERE",
+  "githubUsername": "kage23",
   "feeds": [
     {
-      "shortName": "example",
-      "feedUrl": "https://example.com/feed.rss"
+      "shortName": "DarthsAndDroids",
+      "feedUrl": "https://www.darthsanddroids.net/rss.xml"
     }
   ]
 }
