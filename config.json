@@ -4,6 +4,10 @@
     {
       "shortName": "DarthsAndDroids",
       "feedUrl": "https://www.darthsanddroids.net/rss.xml"
+    },
+    {
+      "shortName": "TDW",
+      "feedUrl": "https://feed.podbean.com/thedoctorswatcher/feed.xml"
     }
   ]
 }
